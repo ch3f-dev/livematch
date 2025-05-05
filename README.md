@@ -1,0 +1,2 @@
+Real-Time Football Match Visualization Dashboard
+This project simulates a real-time football match dashboard where you can visualize player movements, track the ball, and display match events such as goals, fouls, and substitutions. The football pitch and player movement are rendered dynamically, and events are displayed periodically to simulate a real football match.
