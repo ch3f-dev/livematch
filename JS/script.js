@@ -30,15 +30,15 @@ const footballers = [
   { name: 'Doji', id: 'P1', x: 100, y: 100 },
   { name: 'Longs', id: 'P2', x: 200, y: 150 },
   { name: 'Shuaibu', id: 'P3', x: 300, y: 200 },
-  { name: 'Dyelshak', id: 'P4', x: 400, y: 250 },
-  { name: 'Peter', id: 'P5', x: 500, y: 300 },
-  { name: 'Edwin', id: 'P6', x: 570, y: 350 },
+  { name: 'Scarface', id: 'P4', x: 400, y: 250 },
+  { name: 'Manoah', id: 'P5', x: 500, y: 300 },
+  { name: 'Samson', id: 'P6', x: 570, y: 350 },
   { name: 'Yilkime', id: 'P7', x: 0, y: 0 },
-  { name: 'Lucky', id: 'P8', x: 100, y: 50 },
-  { name: 'Samson', id: 'P9', x: 200, y: 100 },
+  { name: 'Ola', id: 'P8', x: 100, y: 50 },
+  { name: 'Edwin', id: 'P9', x: 200, y: 100 },
   { name: 'Seun', id: 'P10', x: 300, y: 150 },
-  { name: 'Manoah', id: 'P11', x: 400, y: 200 },
-  { name: 'Scarface', id: 'P12', x: 500, y: 250 },
+  { name: 'Peter', id: 'P11', x: 400, y: 200 },
+  { name: 'Dyelshak', id: 'P12', x: 500, y: 250 },
 ];
 
 // Create div for each footballer
